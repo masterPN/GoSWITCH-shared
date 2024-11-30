@@ -1,4 +1,4 @@
-package main
+package constants
 
 const (
 	MockTimeString = "2022-01-01 10:00:00"
